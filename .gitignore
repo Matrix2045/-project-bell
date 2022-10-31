@@ -1,0 +1,14 @@
+node_modules
+
+.DS_Store
+dist
+.next
+.vercel
+.env
+.env.production
+generated/
+test-results/
+
+# IDE Specific
+.idea
+.vscode
